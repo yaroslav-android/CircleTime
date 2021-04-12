@@ -1,0 +1,3 @@
+include ':circletime'
+include ':app'
+rootProject.name = "CircleTime"
